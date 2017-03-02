@@ -1,6 +1,5 @@
 # hello-world
 this is my first repository @github
 
-This is a master's branch
-which contains readme.md
-and nothing else
+This is a new branch except from master branch
+this is to test the merge function of github
